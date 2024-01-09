@@ -5,7 +5,7 @@ Now is a time toolkit for golang
 ## Install
 
 ```
-go get -u github.com/dreamszhu/go-now
+go get -u github.com/dreamsxin/go-now
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ go get -u github.com/dreamszhu/go-now
 Calculating time based on current time
 
 ```go
-import "github.com/dreamszhu/go-now"
+import "github.com/dreamsxin/go-now"
 
 time.Now() // 2013-11-18 17:51:49.123456789 Mon
 
